@@ -5,6 +5,7 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 ## Writeups
 
 - [Web Application Security Assessment: Session Management and Authentication Vulnerabilities in a Nonprofit Donor Platform](writeup-web-app-security-assessment.md)
+- [Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop](writeup-nikto-web-server-scanning.md)
 
 ## About
 
