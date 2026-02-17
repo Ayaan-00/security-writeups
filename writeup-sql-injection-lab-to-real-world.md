@@ -196,7 +196,7 @@ The material on session handling connected directly to what I found at the nonpr
 
 I am a cybersecurity professional based in Toronto with a Master of Science in Information Systems Security Management from Northeastern University. My experience spans SOC operations, penetration testing, and web application security assessments for organizations across multiple sectors. I am an active participant in the OWASP community and continue to build my offensive security skills through platforms like PortSwigger Web Security Academy and HackTheBox.
 
-Connect with me on [LinkedIn](https://linkedin.com/) or check out more of my work on [GitHub](https://github.com/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ayaan-m-2643122a0/).
 
 ---
 
