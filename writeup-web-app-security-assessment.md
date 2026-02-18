@@ -1,6 +1,6 @@
 # Web Application Security Assessment: Session Management and Authentication Vulnerabilities in a Nonprofit Donor Platform
 
-Ayaan Mohammed | February 2026
+Ayaan Mohammed
 
 Tools: Burp Suite, Nmap, Nikto, OWASP ZAP | Lab Platform: PortSwigger Web Security Academy
 
