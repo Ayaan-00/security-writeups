@@ -22,7 +22,7 @@ This writeup goes through what I found during that assessment, then connects it 
 
 ### How it started
 
-I was working as a Security Project Assistant at a Canadian nonprofit. The organization was going through a website migration from a legacy CMS to a new platform, and our small team was brought in to assess the existing web application for security gaps before the transition.
+I was on a small security team at a nonprofit. The organization was going through a website migration from a legacy CMS to a new platform, and we were brought in to assess the existing web application for security gaps before the transition.
 
 The organization runs a donor platform that processes financial transactions and stores PII, so PCI DSS compliance was a factor. We were expecting to find some misconfigured headers and maybe some outdated components. What we actually found was a lot worse.
 
