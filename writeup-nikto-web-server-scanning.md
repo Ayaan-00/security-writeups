@@ -1,6 +1,6 @@
 # Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop
 
-Ayaan Mohammed | February 2025
+Ayaan Mohammed
 
 Tools: Nikto, Docker, Kali Linux | Target: OWASP Juice Shop (localhost lab environment)
 
