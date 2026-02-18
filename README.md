@@ -10,6 +10,7 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 
 - [Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop](writeup-nikto-web-server-scanning.md)
 - [Authentication Vulnerabilities: Username Enumeration, 2FA Bypass, and Password Reset Exploitation](writeup-authentication-vulnerabilities.md)
+- [Access Control Vulnerabilities: Broken Admin Panels, Privilege Escalation, and Forgeable Cookies](writeup-access-control-vulnerabilities.md)
 
 ## About
 
