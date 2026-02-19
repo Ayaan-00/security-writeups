@@ -4,7 +4,7 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 
 ## Authorized Assessments
 
-- [Web Application Security Assessment: Session Management and Authentication Vulnerabilities in a Nonprofit Donor Platform](writeup-web-app-security-assessment.md)
+- [Web Application Security Assessment: Session Management and Authentication Vulnerabilities](writeup-web-app-security-assessment.md)
 
 ## Simulated Penetration Tests
 
@@ -13,7 +13,7 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 ## Lab Work
 
 - [Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop](writeup-nikto-web-server-scanning.md)
-- [From Real World to Lab: How a Nonprofit Security Assessment Taught Me the True Impact of Web Vulnerabilities](writeup-sql-injection-lab-to-real-world.md)
+- [From Real World to Lab: How a Security Assessment Taught Me the True Impact of Web Vulnerabilities](writeup-sql-injection-lab-to-real-world.md)
 - [Authentication Vulnerabilities: Username Enumeration, 2FA Bypass, and Password Reset Exploitation](writeup-authentication-vulnerabilities.md)
 - [Access Control Vulnerabilities: Broken Admin Panels, Privilege Escalation, and Forgeable Cookies](writeup-access-control-vulnerabilities.md)
 
