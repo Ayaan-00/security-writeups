@@ -1,6 +1,14 @@
 # Security Writeups
 
-Security assessment writeups, lab walkthroughs, and vulnerability research.
+This repo documents how I think about offensive security. Not just what I found or what tools I used, but why each finding matters and how it connects to real business risk.
+
+Most of this work was done over the past year across my master's program, co-op placements, and independent study. I was focused on doing the work, not publishing it. Now that I'm moving into the job market, I'm putting it all in one place so the methodology and thinking behind what I've done is actually visible.
+
+The writeups range from authorized assessments on live client systems to simulated penetration tests and structured lab exercises. They're ordered below by the type of engagement, not by when I did them.
+
+**Confidentiality note:** All client work is fully anonymized. No organization names, URLs, infrastructure details, or other identifying information is included anywhere in this repo. Confidentiality is the foundation of security work, and I treat it that way.
+
+---
 
 ## Authorized Assessments
 
@@ -13,15 +21,10 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 ## Lab Work
 
 - [Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop](writeup-nikto-web-server-scanning.md)
-- [From Real World to Lab: How a Security Assessment Taught Me the True Impact of Web Vulnerabilities](writeup-sql-injection-lab-to-real-world.md)
 - [Authentication Vulnerabilities: Username Enumeration, 2FA Bypass, and Password Reset Exploitation](writeup-authentication-vulnerabilities.md)
 - [Access Control Vulnerabilities: Broken Admin Panels, Privilege Escalation, and Forgeable Cookies](writeup-access-control-vulnerabilities.md)
 
-## About
-
-These writeups document my approach to offensive security. From authorized real world assessments to structured lab work, each one focuses on methodology, thought process, and business impact rather than just the technical exploitation.
-
-All real world findings are anonymized. No organization names, URLs, or infrastructure details are included.
+---
 
 ## Tools
 
