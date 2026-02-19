@@ -6,9 +6,14 @@ Security assessment writeups, lab walkthroughs, and vulnerability research.
 
 - [Web Application Security Assessment: Session Management and Authentication Vulnerabilities in a Nonprofit Donor Platform](writeup-web-app-security-assessment.md)
 
+## Simulated Penetration Tests
+
+- [Chaining Vulnerabilities on OWASP Juice Shop: From Reconnaissance to Full Application Compromise](writeup-juice-shop-pentest.md)
+
 ## Lab Work
 
 - [Web Server Vulnerability Scanning with Nikto: Security Header Analysis and Attack Surface Mapping on OWASP Juice Shop](writeup-nikto-web-server-scanning.md)
+- [From Real World to Lab: How a Nonprofit Security Assessment Taught Me the True Impact of Web Vulnerabilities](writeup-sql-injection-lab-to-real-world.md)
 - [Authentication Vulnerabilities: Username Enumeration, 2FA Bypass, and Password Reset Exploitation](writeup-authentication-vulnerabilities.md)
 - [Access Control Vulnerabilities: Broken Admin Panels, Privilege Escalation, and Forgeable Cookies](writeup-access-control-vulnerabilities.md)
 
@@ -20,7 +25,7 @@ All real world findings are anonymized. No organization names, URLs, or infrastr
 
 ## Tools
 
-Burp Suite, Nmap, Nikto, OWASP ZAP, Metasploit, Kali Linux, Wireshark, Splunk
+Burp Suite, Nmap, Nikto, OWASP ZAP, Metasploit, Kali Linux, Wireshark, Splunk, Docker
 
 ## Contact
 
