@@ -2,7 +2,7 @@
 
 Ayaan Mohammed
 
-Tools: Burp Suite, Nmap, Nikto, OWASP ZAP | Lab Platform: PortSwigger Web Security Academy
+Tools: Burp Suite, Nmap, Nikto, OWASP ZAP
 
 ---
 
